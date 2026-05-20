@@ -1,0 +1,12 @@
+{
+  "name": "github-lark-webhook",
+  "version": "1.0.0",
+  "description": "GitHub webhook to Lark group notifications, deployable on Zeabur",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
